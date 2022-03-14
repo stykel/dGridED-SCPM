@@ -4,7 +4,7 @@
 
 Real-World Data Sets<br>
 -------
-The real dataset is located in the [Real Data Sets] folder, which contains the **Kunming POI** dataset. (Number of features: 23, number of instances: 298851)
+The real dataset is located in the [Real Data Sets] folder, which contains the **Kunming POI.csv** dataset. (Number of features: 23, number of instances: 298851)
 <br>
 
 The data features of the **Kunming POI** is: { instance feature, instance id, x-coordinate, y-coordinate }
