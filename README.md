@@ -44,3 +44,5 @@ The synthetic datasets is located in the [Synthetic Data Sets] folder.
   Num_coloc=30 ：[co_loc_30.data] <br>
   
 The data features of all synthetic datasets are: { instance features, instance id, x-coordinate, y-coordinate}
+
+**Note that** in the experiments on synthetic datasets, for each value of each variable (such as clumpy=1), we generat ten datasets with the same parameters and perform ten repeated experiments. The results in the paper are the average of these ten results.
