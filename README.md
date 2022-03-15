@@ -10,6 +10,9 @@ The real dataset is located in the [Real Data Sets] folder, which contains the *
 The data features of the **Kunming POI** is: { instance feature, instance id, x-coordinate, y-coordinate }
 <br>
 
+**Note that** availability is limited for the remaining two real datasets, which were used under licence for the current study, and so are not publicly available. However, if you need this data please contact us with your reasonable request.
+
+<br>
 Synthetic Data Sets<br>
 -------
 
@@ -45,4 +48,4 @@ The synthetic datasets is located in the [Synthetic Data Sets] folder.
   
 The data features of all synthetic datasets are: { instance features, instance id, x-coordinate, y-coordinate}
 
-**Note that** in the experiments on synthetic datasets, for each value of each variable (such as clumpy=1), we generat ten datasets with the same parameters and perform ten repeated experiments. The results in the paper are the average of these ten results.
+**Note that** in the experiments on synthetic datasets, for each value of each variable (such as clumpy=1), we generat ten datasets with the same parameters and perform ten repeated experiments. The results in the paper are the average of these ten results. Since the total amount of all synthetic dataset files is too large, we only upload 1/10 of the files. Please contact us if you need all data files.
