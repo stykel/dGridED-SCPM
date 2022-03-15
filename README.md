@@ -43,4 +43,4 @@ The synthetic datasets is located in the [Synthetic Data Sets] folder.
   Num_coloc=25 ：[co_loc_25.data] <br>
   Num_coloc=30 ：[co_loc_30.data] <br>
   
-The data features of all synthetic datasets are: { instance id, instance features, x-coordinate, y-coordinate}
+The data features of all synthetic datasets are: { instance features, instance id, x-coordinate, y-coordinate}
